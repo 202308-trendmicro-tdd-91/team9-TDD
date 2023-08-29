@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="budget.BudgetServiceTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-08-29T09:34:47" hostname="tw-sherrymtsai" time="0.225">
+  <properties/>
+  <testcase name="test_1_day_budget" classname="budget.BudgetServiceTest" time="0.21"/>
+  <testcase name="test_cross_year_budget" classname="budget.BudgetServiceTest" time="0.001"/>
+  <testcase name="test_no_data" classname="budget.BudgetServiceTest" time="0.002"/>
+  <testcase name="test_cross_month_budget" classname="budget.BudgetServiceTest" time="0.005"/>
+  <testcase name="test_leap_year" classname="budget.BudgetServiceTest" time="0.001"/>
+  <testcase name="test_invalid_period" classname="budget.BudgetServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
